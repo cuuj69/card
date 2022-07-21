@@ -13,7 +13,7 @@ body {
       rgba(255, 255, 255, 0.1),
       rgba(255, 255, 255, 0.1)
     ),
-    url(../img/background.jpg);
+    url(../img/scene3.jpg);
 
   background-size: cover;
   display: flex;
@@ -30,7 +30,7 @@ body {
 }
 
 .card-header {
-  background: #2c3a47;
+  background: #b0d6f7;
   padding: 60px 40px;
 }
 
@@ -68,7 +68,7 @@ body {
 }
 
 .name {
-  color: #f2f2f2;
+  color: #d09e9e;
   font-size: 28px;
   font-weight: 600;
   margin: 10px 0;
@@ -118,7 +118,7 @@ body {
 }
 
 .card-footer {
-  background: #f4f4f4;
+  background: #f6eded;
   padding: 60px 10px;
 }
 
