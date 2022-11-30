@@ -1,3 +1,3 @@
-# Contact Car
+# Contact Card
 
 A small card with my contact info
